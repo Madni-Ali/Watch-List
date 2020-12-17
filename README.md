@@ -1,7 +1,4 @@
 # Watch List
-
-![Watch List](https://i.ibb.co/J3T3QsP/Screenshot-39.png)
-
 ![Watch List](https://i.ibb.co/pLPwx08/Screenshot-46.png)
 ![Watch List](https://i.ibb.co/kMfzv8Q/Screenshot-48.png)
 ![Watch List](https://i.ibb.co/ZM43nvw/Screenshot-49.png)
