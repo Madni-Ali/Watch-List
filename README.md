@@ -10,3 +10,5 @@ A react application which allows users to search for a movie, and add to their w
 Setup:
 
 - run `npm i && npm start` for both client and server side to start the app
+
+The Application is live on https://add-movies-list.netlify.app/
